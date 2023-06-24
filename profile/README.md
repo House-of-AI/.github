@@ -1,5 +1,6 @@
-# Hi there 👋 Welcome to House of AI 
+# Welcome to House of AI 
 
+We are a collaborative community of developers and hackers, utilizing AI to ideate, Learn, build, and launch innovative products.
 
 <!--
 
