@@ -1,5 +1,5 @@
 # Welcome to House of AI 
-
+![House of AL](https://avatars.githubusercontent.com/u/137647586?s=200&v=4)
 We are a collaborative community of developers and hackers, utilizing AI to ideate, Learn, build, and launch innovative products.
 
 <!--
